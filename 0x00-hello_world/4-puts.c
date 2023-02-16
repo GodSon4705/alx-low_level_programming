@@ -4,8 +4,6 @@
  * main entry
  * main - print a c program using puts
  *
- *Description: the program's description
- *
  * Return: 0
  */
 
