@@ -1,16 +1,13 @@
 #include <stdio.h>
 
 /**
- * main entry
- * main - print a c program using puts
+ * main - entry point
  *
- * Return: 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-
-		return (0);
-
+	return (0);
 }
